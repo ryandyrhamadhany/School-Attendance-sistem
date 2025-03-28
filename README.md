@@ -3,7 +3,7 @@
 </h1>
 
 <h3>
-  I try ti making this project, beacuse this recommendation for beginners project
+  I try to making this project, beacuse this recommendation for beginners project
 </h3>
 
 <h5>
